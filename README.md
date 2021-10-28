@@ -1,5 +1,7 @@
 # Hi there, I´m Rafael Araujo 
 
+<img src="https://github.com/Rafaell-dev/images/blob/main/dog%20courage.gif" width= "250px" align= "right">
+
 - Pronouns: Him/his
 - I'm currently in the third year of high school
 - I'm learning about JS, CSS3, HTML5
