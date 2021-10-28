@@ -7,4 +7,4 @@
 
 - Pronouns: Him/his
 
-![Profile Rocketseat]https://img.shields.io/badge/-Profile%20Rocketseat-blueviolet](https://app.rocketseat.com.br/me/rafael-araujo-07300)
+![Profile Rocketseat](https://img.shields.io/badge/-Profile%20Rocketseat-blueviolet](https://app.rocketseat.com.br/me/rafael-araujo-07300)
