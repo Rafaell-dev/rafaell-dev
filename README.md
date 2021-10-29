@@ -3,7 +3,7 @@
 <img src="https://github.com/Rafaell-dev/images/blob/main/dog%20courage.gif" width= "250px" align= "right">
 
 ### :man: About me
-- Pronouns: Him/his
+- Pronouns: He/him
 - I'm currently in the third year of high school 
 - I'm learning about JS, CSS3, HTML5
 - I'm looking for my first oportunity to work as Software Developer
