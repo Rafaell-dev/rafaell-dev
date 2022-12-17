@@ -1,6 +1,6 @@
 # Hi there, I´m Rafael Araujo :wave:
 
-<img src="https://github.com/Rafaell-dev/images/blob/main/dog%20courage.gifhttps://github.com/Rafaell-dev/images/blob/main/img-gif-github.gif" width= "250px" align= "right">
+<img src="https://github.com/Rafaell-dev/images/blob/main/img-gif-github.gif" width= "250px" align= "right">
 
 ### :man: About me
 - Pronouns: He/him
