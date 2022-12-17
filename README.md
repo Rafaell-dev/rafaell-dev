@@ -4,8 +4,8 @@
 
 ### :man: About me
 - Pronouns: He/him
-- I'm currently in the third year of high school 
-- I'm learning about JS, CSS3, HTML5
+- HTML5, CSS3, Bootstrap 5
+- I'm learning about JS, ReactJS, MongoDB
 - I'm looking for my first oportunity to work as Software Developer
 - I'm looking to collaborate to open sources projects
 
