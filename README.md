@@ -4,8 +4,7 @@
 
 ### :man: About me
 - Pronouns: He/him
-- HTML5, CSS3, Bootstrap 5
-- I'm learning about JS, ReactJS, MongoDB
+- I'm learning about NextJS, Typescript, TailwindCSS, MongoDB, MySQL.
 - I'm looking for my first oportunity to work as Software Developer
 - I'm looking to collaborate to open sources projects
 
