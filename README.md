@@ -3,10 +3,9 @@
 <img src="https://github.com/Rafaell-dev/images/blob/main/img-gif-github.gif" width= "250px" align= "right">
 
 ### :man: About me
-- Pronouns: He/him
-- I'm learning about NextJS, Typescript, TailwindCSS, MongoDB, MySQL.
-- I'm looking for my first oportunity to work as Software Developer
-- I'm looking to collaborate to open sources projects
+- I'm learning about NextJS, Typescript, Express, MongoDB, MySQL.
+- I'm looking for an oportunity to work as Software Developer
+- I'm looking to collaborate to projects
 
 
 
@@ -18,6 +17,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:araujor.dev@gmail.com)
 
 ### :computer: Front-End Development
+### :computer: Back-End Development
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
