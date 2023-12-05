@@ -16,5 +16,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelcolor=0D0D0D&logo=Linkedin&color=blue)](https://linkedin.com/in/rafaelldev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:araujor.dev@gmail.com)
 
-### :computer: Front-End Development
-### :computer: Back-End Development
+### :computer: Front-End & Back-End development
