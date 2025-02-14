@@ -3,11 +3,7 @@
 <img src="https://github.com/Rafaell-dev/images/blob/main/img-gif-github.gif" width= "250px" align= "right">
 
 ### :man: About me
-- I'm learning about NextJS, Typescript, Express, MongoDB, MySQL.
-- I'm looking for an oportunity to work as Software Developer
-- I'm looking to collaborate to projects
-
-
+- I'm working with NodeJS, NextJs, Express.
 
 ##
 ### Contact me!
